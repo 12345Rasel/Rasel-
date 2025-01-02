@@ -1,1 +1,16 @@
 
+Description
+Import/export fbstate.json which can be used to let bot login.
+Version
+1.3
+Size
+< 1 MB
+ID
+igcofmnfccnmpiflfldnpabafkgcegel
+Inspect views
+background page (Inactive)
+Permissions
+Site access
+This extension can read and change your data on sites. You can control which sites the extension can access.
+Automatically allow access on the following sites
+https://*.facebook.com/*
