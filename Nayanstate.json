@@ -1,16 +1,110 @@
-
-Description
-Import/export fbstate.json which can be used to let bot login.
-Version
-1.3
-Size
-< 1 MB
-ID
-igcofmnfccnmpiflfldnpabafkgcegel
-Inspect views
-background page (Inactive)
-Permissions
-Site access
-This extension can read and change your data on sites. You can control which sites the extension can access.
-Automatically allow access on the following sites
-https://*.facebook.com/*
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261569451703054%22%3A%22MEHmvqL4%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.691Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "datr",
+        "value": "wGtzZzy34OeEq3zqzAREzn40",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "sb",
+        "value": "wGtzZ858Up7hOG8nynDmtI_G",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x733",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61569451703054",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "fr",
+        "value": "0Ao2fnub9TJ7pRQRW.AWUpoNXqkD41c8CpBPYvsIUh1Ak.Bnc2vA..AAA.0.0.Bnc26q.AWU7fd-0tXY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "xs",
+        "value": "28%3Au7Q5J-Xj9Rm9vg%3A2%3A1735618219%3A-1%3A1713",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B733x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100438367%3BT%3A28930356",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2701%3Btimestamp%3A1735821396",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-01-02T12:54:55.696Z",
+        "lastAccessed": "2025-01-02T12:54:55.696Z"
+    }
+]
